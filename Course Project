@@ -1,6 +1,0 @@
-# Summary
-
-The dataset for this project was collected from kaggle and originates from Mendeley Data: The Impact of Covid-19 Pandemic on the Global Economy: Emphasis on Poverty Alleviation and Economic Growth. The data I investigate here consists of records on the impact of covid-19 on the global economy including 210 countries.
-
-Main objective of the analysis is to focus on prediction. In this project, we will employ linear regression algorithms to find relationship between common GDP and human development index and total number of death. We will then choose the best candidate algorithm from preliminary results. The goal with this implementation is to construct a model that accurately predicts how the global economy of each country is affected.
-
